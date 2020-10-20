@@ -1,5 +1,5 @@
 # GraphQLExample
-```bash
+```python
 The use POST request example after the run GraphQL API. 
 { 
  "query":"query{allcategory{id name}}"
